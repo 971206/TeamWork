@@ -7,8 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		3D87525D2692D7AE007E79A4 /* ArticlsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D87525C2692D7AE007E79A4 /* ArticlsViewController.swift */; };
 		3D87525F2692D806007E79A4 /* ArticlsViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D87525E2692D806007E79A4 /* ArticlsViewController.storyboard */; };
+=======
+		63863D022692D75500345A1E /* ArticlesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D012692D75500345A1E /* ArticlesManager.swift */; };
+		63863D042692D78400345A1E /* Articles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D032692D78400345A1E /* Articles.swift */; };
+		63863D062692D7B700345A1E /* ArticlesRespose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D052692D7B700345A1E /* ArticlesRespose.swift */; };
+		63863D0A2692D82B00345A1E /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D092692D82B00345A1E /* NetworkManager.swift */; };
+		63863D112692D87E00345A1E /* UITableViewCell+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D0C2692D87E00345A1E /* UITableViewCell+Extension.swift */; };
+		63863D122692D87E00345A1E /* UITableView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D0D2692D87E00345A1E /* UITableView+Extension.swift */; };
+		63863D132692D87E00345A1E /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D0E2692D87E00345A1E /* UIColor+Extension.swift */; };
+		63863D142692D87E00345A1E /* UICollectionViewCell+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D0F2692D87E00345A1E /* UICollectionViewCell+Extension.swift */; };
+		63863D152692D87E00345A1E /* UICollectionView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63863D102692D87E00345A1E /* UICollectionView+Extensions.swift */; };
+>>>>>>> 6a0806e6d73d1e473b4d573e3356e8a88b9d73ce
 		FA4CE7892692D45C0034277F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4CE7882692D45C0034277F /* AppDelegate.swift */; };
 		FA4CE78B2692D45C0034277F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4CE78A2692D45C0034277F /* SceneDelegate.swift */; };
 		FA4CE78D2692D45C0034277F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4CE78C2692D45C0034277F /* ViewController.swift */; };
@@ -18,8 +30,20 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		3D87525C2692D7AE007E79A4 /* ArticlsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlsViewController.swift; sourceTree = "<group>"; };
 		3D87525E2692D806007E79A4 /* ArticlsViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ArticlsViewController.storyboard; sourceTree = "<group>"; };
+=======
+		63863D012692D75500345A1E /* ArticlesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesManager.swift; sourceTree = "<group>"; };
+		63863D032692D78400345A1E /* Articles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Articles.swift; sourceTree = "<group>"; };
+		63863D052692D7B700345A1E /* ArticlesRespose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesRespose.swift; sourceTree = "<group>"; };
+		63863D092692D82B00345A1E /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		63863D0C2692D87E00345A1E /* UITableViewCell+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableViewCell+Extension.swift"; sourceTree = "<group>"; };
+		63863D0D2692D87E00345A1E /* UITableView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableView+Extension.swift"; sourceTree = "<group>"; };
+		63863D0E2692D87E00345A1E /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		63863D0F2692D87E00345A1E /* UICollectionViewCell+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionViewCell+Extension.swift"; sourceTree = "<group>"; };
+		63863D102692D87E00345A1E /* UICollectionView+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionView+Extensions.swift"; sourceTree = "<group>"; };
+>>>>>>> 6a0806e6d73d1e473b4d573e3356e8a88b9d73ce
 		FA4CE7852692D45C0034277F /* TeamWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TeamWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA4CE7882692D45C0034277F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA4CE78A2692D45C0034277F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -41,6 +65,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		63863CFF2692D72900345A1E /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				63863D032692D78400345A1E /* Articles.swift */,
+				63863D052692D7B700345A1E /* ArticlesRespose.swift */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		63863D002692D72F00345A1E /* API */ = {
+			isa = PBXGroup;
+			children = (
+				63863D012692D75500345A1E /* ArticlesManager.swift */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		63863D072692D7FD00345A1E /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+				63863D0B2692D86A00345A1E /* Extensions */,
+				63863D082692D80D00345A1E /* Network */,
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		63863D082692D80D00345A1E /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				63863D092692D82B00345A1E /* NetworkManager.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		63863D0B2692D86A00345A1E /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				63863D102692D87E00345A1E /* UICollectionView+Extensions.swift */,
+				63863D0F2692D87E00345A1E /* UICollectionViewCell+Extension.swift */,
+				63863D0E2692D87E00345A1E /* UIColor+Extension.swift */,
+				63863D0D2692D87E00345A1E /* UITableView+Extension.swift */,
+				63863D0C2692D87E00345A1E /* UITableViewCell+Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		FA4CE77C2692D45C0034277F = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +130,9 @@
 		FA4CE7872692D45C0034277F /* TeamWork */ = {
 			isa = PBXGroup;
 			children = (
+				63863D072692D7FD00345A1E /* Infrastructure */,
+				63863D002692D72F00345A1E /* API */,
+				63863CFF2692D72900345A1E /* Domain */,
 				FA4CE7882692D45C0034277F /* AppDelegate.swift */,
 				FA4CE78A2692D45C0034277F /* SceneDelegate.swift */,
 				FA4CE78C2692D45C0034277F /* ViewController.swift */,
@@ -145,9 +218,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA4CE78D2692D45C0034277F /* ViewController.swift in Sources */,
+				63863D042692D78400345A1E /* Articles.swift in Sources */,
+				63863D122692D87E00345A1E /* UITableView+Extension.swift in Sources */,
 				FA4CE7892692D45C0034277F /* AppDelegate.swift in Sources */,
+				63863D112692D87E00345A1E /* UITableViewCell+Extension.swift in Sources */,
+				63863D0A2692D82B00345A1E /* NetworkManager.swift in Sources */,
+				63863D022692D75500345A1E /* ArticlesManager.swift in Sources */,
+				63863D062692D7B700345A1E /* ArticlesRespose.swift in Sources */,
+				63863D152692D87E00345A1E /* UICollectionView+Extensions.swift in Sources */,
 				FA4CE78B2692D45C0034277F /* SceneDelegate.swift in Sources */,
+<<<<<<< HEAD
 				3D87525D2692D7AE007E79A4 /* ArticlsViewController.swift in Sources */,
+=======
+				63863D132692D87E00345A1E /* UIColor+Extension.swift in Sources */,
+				63863D142692D87E00345A1E /* UICollectionViewCell+Extension.swift in Sources */,
+>>>>>>> 6a0806e6d73d1e473b4d573e3356e8a88b9d73ce
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
